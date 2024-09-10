@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(230, 70, 180);
+}
+h1{
+    text-align: center;
+    font-size: 42px;
+    color: rgb(80, 230, 77);
+}
+li{
+    color: white;
+}
+.First{
+    color: blue;
+}
+#cool {
+    color: green;
+}
